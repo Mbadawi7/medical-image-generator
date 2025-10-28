@@ -1,0 +1,57 @@
+# -----------------------------
+# Core AI Frameworks
+# -----------------------------
+torch
+torchvision
+torchaudio
+monai
+pydicom
+simpleitk
+numpy
+scipy
+pandas
+matplotlib
+scikit-image
+opencv-python
+tqdm
+
+# -----------------------------
+# Generative / Diffusion Tools
+# -----------------------------
+diffusers
+transformers
+accelerate
+safetensors
+einops
+
+# -----------------------------
+# Visualization & Utilities
+# -----------------------------
+jupyterlab
+seaborn
+plotly
+ipywidgets
+imageio
+pillow
+
+# -----------------------------
+# Experiment Tracking / Config
+# -----------------------------
+tensorboard
+omegaconf
+
+# -----------------------------
+# Optional (for medical image augmentation / exploration)
+# -----------------------------
+albumentations==1.3.1
+medpy
+
+
+#---------
+#For code editing
+#-------------
+jupyterlab
+notebook
+ipykernel
+
+python-multipart==0.0.9

@@ -54,11 +54,4 @@ jupyterlab
 notebook
 ipykernel
 
-#---------
-#For api
-#-------------
-echo "fastapi
-uvicorn
-pydantic
-pydicom
-pillow" >> requirements.txt
+python-multipart==0.0.9

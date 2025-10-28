@@ -53,3 +53,12 @@ medpy
 jupyterlab
 notebook
 ipykernel
+
+#---------
+#For api
+#-------------
+echo "fastapi
+uvicorn
+pydantic
+pydicom
+pillow" >> requirements.txt
